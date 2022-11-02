@@ -1,1 +1,1 @@
-# EveryDay Programmers
+# EveryDay
